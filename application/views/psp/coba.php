@@ -146,11 +146,11 @@
                             <div class="text-center">
                                 <div class="fs-4 mb-4 fst-italic">"VISI = Berprestasi Berbudi Pekerti dan Berwawasan Lingkungan"</div>
                                 <div class="d-flex align-items-center justify-content-center">
-                                    <img class="rounded-circle me-3" src="https://dummyimage.com/40x40/ced4da/6c757d" alt="..." />
+                                    <img class="img-body" src="assets/img/logo_sp.png" alt="..." />
                                     <div class="fw-bold">
-                                        Tom Ato
+                                        Website PSP
                                         <span class="fw-bold text-primary mx-1">/</span>
-                                        CEO, Pomodoro
+                                       Team IT SMPN 1 Grobogan
                                     </div>
                                 </div>
                             </div>
