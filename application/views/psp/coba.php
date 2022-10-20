@@ -11,7 +11,7 @@
         <!-- Bootstrap icons-->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+        <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script> -->
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
         <link href="<?php echo base_url('assets/css/styles.css');?>" rel="stylesheet">
@@ -55,22 +55,22 @@
                     </div>
                 </div>
             </nav>
-            <!-- Header-->
-            <header class="bg-dark py-5">
+           <!-- Header-->
+           <header class="bg-dark py-5">
                 <div class="container px-5">
                     <div class="row gx-5 align-items-center justify-content-center">
                         <div class="col-lg-8 col-xl-7 col-xxl-6">
                             <div class="my-5 text-center text-xl-start">
-                                <h1 class="display-5 fw-bolder text-white mb-1">WEBSITE PSP 
-                                <h1 class="display-5 fw-bolder text-white mb-2">SMP N 1 GROBOGAN 
-                                    <h1>
+                                <h1 class="display-5 fw-bolder text-white mb-1">WEBSITE
+                                <h1 class="display-5 fw-bolder text-white mb-2">PROJECT SEKOLAH PENGGERAK 
+                                <h1>
                                 <p class="lead fw-normal text-white-50 mb-4">Website yang dibuat untuk memuat segala kegiatan pelaksaan P5 yang ada pada SMP N 1 Grobogan</p>
                                 <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
                                     <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Modul</a>
                                     <a class="btn btn-outline-light btn-lg px-4" href="#!">Video Modul</a>
                                 </div>
                             </div>
-                        </div>
+                        </div>
                         <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center">
                             <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
                                 <div class="carousel-inner">
