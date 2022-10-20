@@ -10,6 +10,7 @@
         <link rel="icon" type="image/x-icon" href="assets/img/LOGO_SMP.png" />
         <!-- Bootstrap icons-->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+        <link href="/docs/5.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script> -->
         <!-- Core theme CSS (includes Bootstrap)-->
@@ -93,6 +94,7 @@
                                         <span class="visually-hidden">Next</span>
                                     </button>
                             </div>
+                            
                     </div>
                 </div>
             </header>
@@ -146,11 +148,11 @@
                             <div class="text-center">
                                 <div class="fs-4 mb-4 fst-italic">"VISI = Berprestasi Berbudi Pekerti dan Berwawasan Lingkungan"</div>
                                 <div class="d-flex align-items-center justify-content-center">
-                                    <img class="img-body" src="assets/img/logo_sp.png" alt="..." />
+                                    <img class="rounded-circle me-3" src="https://dummyimage.com/40x40/ced4da/6c757d" alt="..." />
                                     <div class="fw-bold">
-                                        Website PSP
+                                        Tom Ato
                                         <span class="fw-bold text-primary mx-1">/</span>
-                                       Team IT SMPN 1 Grobogan
+                                        CEO, Pomodoro
                                     </div>
                                 </div>
                             </div>
@@ -213,8 +215,8 @@
                             </div>
                         </div>
                         <div class="col-lg-4 mb-5">
-                            <div class="card h-100 shadow border-0">
                             <iframe width="315" height="200" src="https://www.youtube.com/embed/Jngz0LV0ewU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <div class="card h-100 shadow border-0">
                                 <div class="card-body p-4">
                                     <div class="badge bg-primary bg-gradient rounded-pill mb-2">News</div>
                                     <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">The last blog post title is a little bit longer than the others</h5></a>
