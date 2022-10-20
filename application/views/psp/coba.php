@@ -63,11 +63,7 @@
                             <div class="my-5 text-center text-xl-start">
                                 <h1 class="display-5 fw-bolder text-white mb-1">WEBSITE
                                 <h1 class="display-5 fw-bolder text-white mb-2">PROJECT SEKOLAH PENGGERAK 
-<<<<<<< HEAD
-                                <h1>
-=======
                                     <h1>
->>>>>>> 361ea2984ab80eb9bbfaef828b5ca3b35ca8144c
                                 <p class="lead fw-normal text-white-50 mb-4">Website yang dibuat untuk memuat segala kegiatan pelaksaan P5 yang ada pada SMP N 1 Grobogan</p>
                                 <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
                                     <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Modul</a>
@@ -218,7 +214,7 @@
                         </div>
                         <div class="col-lg-4 mb-5">
                             <div class="card h-100 shadow border-0">
-                                <img class="card-img-top" src="https://dummyimage.com/600x350/6c757d/343a40" alt="..." />
+                            <iframe width="315" height="200" src="https://www.youtube.com/embed/Jngz0LV0ewU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <div class="card-body p-4">
                                     <div class="badge bg-primary bg-gradient rounded-pill mb-2">News</div>
                                     <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">The last blog post title is a little bit longer than the others</h5></a>
