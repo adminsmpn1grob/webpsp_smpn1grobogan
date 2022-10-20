@@ -74,14 +74,14 @@
                         <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center">
                             <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
                                 <div class="carousel-inner">
-                                    <div class="carousel-item active">
-                                        <img src="assets/img/logo1.png" class="d-block w-100" alt="...">
+                                    <div class="carousel-item active" data-bs-interval="3000">
+                                        <img src="assets/img/image-1n.png" class="d-block w-100" alt="...">
                                     </div>
-                                    <div class="carousel-item">
-                                        <img src="assets/img/LOGO_SMP.png" class="d-block w-100" alt="...">
+                                    <div class="carousel-item" data-bs-interval="3000">
+                                        <img src="assets/img/image-2n.png" class="d-block w-100" alt="...">
                                     </div>
-                                    <div class="carousel-item">
-                                        <img src="assets/img/logo2.png" class="d-block w-100" alt="...">
+                                    <div class="carousel-item" data-bs-interval="3000">
+                                        <img src="assets/img/image-3n.png" class="d-block w-100" alt="...">
                                     </div>
                                 </div>
                                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
