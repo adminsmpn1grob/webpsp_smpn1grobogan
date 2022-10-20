@@ -61,8 +61,8 @@
                     <div class="row gx-5 align-items-center justify-content-center">
                         <div class="col-lg-8 col-xl-7 col-xxl-6">
                             <div class="my-5 text-center text-xl-start">
-                                <h1 class="display-5 fw-bolder text-white mb-1">WEBSITE PSP 
-                                <h1 class="display-5 fw-bolder text-white mb-2">SMP N 1 GROBOGAN 
+                                <h1 class="display-5 fw-bolder text-white mb-1">WEBSITE
+                                <h1 class="display-5 fw-bolder text-white mb-2">PROJECT SEKOLAH PENGGERAK 
                                     <h1>
                                 <p class="lead fw-normal text-white-50 mb-4">Website yang dibuat untuk memuat segala kegiatan pelaksaan P5 yang ada pada SMP N 1 Grobogan</p>
                                 <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
@@ -144,7 +144,7 @@
                     <div class="row gx-5 justify-content-center">
                         <div class="col-lg-10 col-xl-7">
                             <div class="text-center">
-                                <div class="fs-4 mb-4 fst-italic">"Working with Start Bootstrap templates has saved me tons of development time when building new projects! Starting with a Bootstrap template just makes things easier!"</div>
+                                <div class="fs-4 mb-4 fst-italic">"VISI = Berprestasi Berbudi Pekerti dan Berwawasan Lingkungan"</div>
                                 <div class="d-flex align-items-center justify-content-center">
                                     <img class="rounded-circle me-3" src="https://dummyimage.com/40x40/ced4da/6c757d" alt="..." />
                                     <div class="fw-bold">
