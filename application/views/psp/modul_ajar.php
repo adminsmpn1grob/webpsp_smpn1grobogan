@@ -142,17 +142,17 @@
             </section>
             <!-- Testimonial section-->
             <div class="py-5 bg-light">
-                <div class="container px-1 my-1">
+                <div class="container px-5 my-5">
                     <div class="row gx-5 justify-content-center">
                         <div class="col-lg-10 col-xl-7">
                             <div class="text-center">
                                 <div class="fs-4 mb-4 fst-italic">"VISI = Berprestasi Berbudi Pekerti dan Berwawasan Lingkungan"</div>
                                 <div class="d-flex align-items-center justify-content-center">
-                                    <img class="rounded-circle me-1" src="assets/img/logo_sp.png" alt="..." />
+                                    <img class="rounded-circle me-3" src="https://dummyimage.com/40x40/ced4da/6c757d" alt="..." />
                                     <div class="fw-bold">
-                                        Website PSP
+                                        Tom Ato
                                         <span class="fw-bold text-primary mx-1">/</span>
-                                        Team IT SMPN 1 Grobogan
+                                        CEO, Pomodoro
                                     </div>
                                 </div>
                             </div>
