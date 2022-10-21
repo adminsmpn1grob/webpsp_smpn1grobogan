@@ -102,7 +102,6 @@
                     </div>
                 </div>
             </header>
-<<<<<<< HEAD
             <!-- Features section-->
             <section class="py-5" id="features">
                 <div class="container px-5 my-5">
@@ -277,9 +276,7 @@
                 </div>
             </div>
         </footer>
-=======
         </main>
->>>>>>> c85694bc29e9b71037888c165907e2c8257b6ffd
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
