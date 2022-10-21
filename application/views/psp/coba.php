@@ -148,11 +148,7 @@
                             <div class="text-center">
                                 <div class="fs-4 mb-4 fst-italic">"VISI = Berprestasi Berbudi Pekerti dan Berwawasan Lingkungan"</div>
                                 <div class="d-flex align-items-center justify-content-center">
-<<<<<<< HEAD
-                                    <img class="rounded-circle me-1" src="assets/img/logo_sp.png" alt="..." />
-=======
                                     <img class="img-body" src="assets/img/logo_sp.png" alt="..." />
->>>>>>> c85694bc29e9b71037888c165907e2c8257b6ffd
                                     <div class="fw-bold">
                                         Website PSP
                                         <span class="fw-bold text-primary mx-1">/</span>
