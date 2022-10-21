@@ -23,4 +23,9 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->view('psp/coba');
 	}
+
+	public function modul()
+	{
+		$this->load->view('psp/modul_ajar');
+	}
 }
