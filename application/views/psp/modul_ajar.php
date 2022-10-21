@@ -76,7 +76,11 @@
                             <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
                                 <div class="carousel-inner">
                                     <div class="carousel-item active" data-bs-interval="3000">
+<<<<<<< HEAD
                                         <img src="assets/img/image-1n.png" class="d-block w-100" alt="...">
+=======
+                                        <img src="assets/img/bgku1.jpg" class="d-block w-100" alt="...">
+>>>>>>> c85694bc29e9b71037888c165907e2c8257b6ffd
                                     </div>
                                     <div class="carousel-item" data-bs-interval="3000">
                                         <img src="assets/img/image-2n.png" class="d-block w-100" alt="...">
@@ -98,6 +102,7 @@
                     </div>
                 </div>
             </header>
+<<<<<<< HEAD
             <!-- Features section-->
             <section class="py-5" id="features">
                 <div class="container px-5 my-5">
@@ -272,6 +277,9 @@
                 </div>
             </div>
         </footer>
+=======
+        </main>
+>>>>>>> c85694bc29e9b71037888c165907e2c8257b6ffd
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
