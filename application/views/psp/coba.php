@@ -150,9 +150,9 @@
                                 <div class="d-flex align-items-center justify-content-center">
                                     <img class="rounded-circle me-3" src="assets/img/logo_sp.png" alt="..." />
                                     <div class="fw-bold">
-                                        Tom Ato
+                                        Website PSP
                                         <span class="fw-bold text-primary mx-1">/</span>
-                                        CEO, Pomodoro
+                                        Team IT SMPN 1 Grobogan
                                     </div>
                                 </div>
                             </div>
