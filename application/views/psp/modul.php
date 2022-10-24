@@ -113,7 +113,7 @@
         <div class="row gx-5">
             <div class="col-lg-4 mb-5">
                 <div class="card h-100 shadow border-0">
-                    <img class="card-img-top" src="https://dummyimage.com/600x350/ced4da/6c757d" alt="..." />
+                    <img class="card-img-top" src="img/Modul_BK.png" alt="..." />
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
                         <h5 class="card-title mb-3">Bimbingan Konseling</h5>
@@ -139,7 +139,7 @@
             </div>
             <div class="col-lg-4 mb-5">
                 <div class="card h-100 shadow border-0">
-                    <img class="card-img-top" src="https://dummyimage.com/600x350/adb5bd/495057" alt="..." />
+                    <img class="card-img-top" src="img/Modul_IPA.png" alt="..." />
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
                         <h5 class="card-title mb-3">Ilmu Pengetahuan Alam</h5>
@@ -166,7 +166,7 @@
             </div>
             <div class="col-lg-4 mb-5">
                 <div class="card h-100 shadow border-0">
-                    <img class="card-img-top" src="https://dummyimage.com/600x350/6c757d/343a40" alt="..." />
+                    <img class="card-img-top" src="img/Modul_IPS.png" alt="..." />
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
                         <h5 class="card-title mb-3">Ilmu Pengetahuan Sosial</h5>
@@ -195,7 +195,7 @@
         <div class="row gx-5">
             <div class="col-lg-4 mb-5">
                 <div class="card h-100 shadow border-0">
-                    <img class="card-img-top" src="https://dummyimage.com/600x350/ced4da/6c757d" alt="..." />
+                    <img class="card-img-top" src="img/Modul_INF.png" alt="..." />
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
                         <h5 class="card-title mb-3">Informatika</h5>
@@ -221,7 +221,7 @@
             </div>
             <div class="col-lg-4 mb-5">
                 <div class="card h-100 shadow border-0">
-                    <img class="card-img-top" src="https://dummyimage.com/600x350/adb5bd/495057" alt="..." />
+                    <img class="card-img-top" src="img/Modul_MATH.png" alt="..." />
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
                         <h5 class="card-title mb-3">Matematika</h5>
@@ -248,7 +248,7 @@
             </div>
             <div class="col-lg-4 mb-5">
                 <div class="card h-100 shadow border-0">
-                    <img class="card-img-top" src="https://dummyimage.com/600x350/6c757d/343a40" alt="..." />
+                    <img class="card-img-top" src="img/Modul_PKN.png" alt="..." />
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
                         <h5 class="card-title mb-3">Pendidikan Pancasila</h5>
@@ -277,7 +277,7 @@
         <div class="row gx-5">
             <div class="col-lg-4 mb-5">
                 <div class="card h-100 shadow border-0">
-                    <img class="card-img-top" src="https://dummyimage.com/600x350/ced4da/6c757d" alt="..." />
+                    <img class="card-img-top" src="img/Modul_PJOK.png" alt="..." />
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
                         <h5 class="card-title mb-3">Pendidikan Jasmani dan Olahraga</h5>
@@ -303,7 +303,7 @@
             </div>
             <div class="col-lg-4 mb-5">
                 <div class="card h-100 shadow border-0">
-                    <img class="card-img-top" src="https://dummyimage.com/600x350/adb5bd/495057" alt="..." />
+                    <img class="card-img-top" src="img/Modul_SBD.png" alt="..." />
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
                         <h5 class="card-title mb-3">Seni Budaya</h5>
@@ -330,7 +330,7 @@
             </div>
             <div class="col-lg-4 mb-5">
                 <div class="card h-100 shadow border-0">
-                    <img class="card-img-top" src="https://dummyimage.com/600x350/adb5bd/495057" alt="..." />
+                    <img class="card-img-top" src="img/Modul_PAI.png" alt="..." />
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
                         <h5 class="card-title mb-3">Pendidikan Agama</h5>
