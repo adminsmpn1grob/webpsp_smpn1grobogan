@@ -26,6 +26,11 @@ class Welcome extends CI_Controller {
 
 	public function modul()
 	{
-		$this->load->view('psp/modul_ajar');
+		$this->load->view('psp/modul');
+	}
+
+	public function coba()
+	{
+		$this->load->view('modul/modul');
 	}
 }

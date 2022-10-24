@@ -38,7 +38,7 @@
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" id="navbarDropdownBlog" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Modul</a>
                                 <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownBlog">
-                                    <li><a class="dropdown-item" href="#">Modul Ajar</a></li>
+                                    <li><a class="dropdown-item" href="<?php echo base_url() ?>Welcome/modul">Modul Ajar</a></li>
                                     <li><a class="dropdown-item" href="#">Video Modul</a></li>
                                 </ul>
                             </li>
