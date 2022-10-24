@@ -2,10 +2,13 @@
 <html lang="en">
 
 <head>
-    <title>Title</title>
+    <title>Modul Ajar</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="img/LOGO_SMP.png" />
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
@@ -27,7 +30,7 @@
         <div class="row gx-5">
             <div class="col-lg-4 mb-5">
                 <div class="card h-100 shadow border-0">
-                    <img class="card-img-top" src="image/bgku1.jpg" alt="..." />
+                    <img class="card-img-top" src="img/Modul_BIN.PNG" alt="..." />
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
                         <h5 class="card-title mb-3">Bahasa Indonesia</h5>
@@ -55,7 +58,7 @@
             </div>
             <div class="col-lg-4 mb-5">
                 <div class="card h-100 shadow border-0">
-                    <img class="card-img-top" src="https://dummyimage.com/600x350/adb5bd/495057" alt="..." />
+                    <img class="card-img-top" src="img/Modul_BING.png" alt="..." />
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
                         <h5 class="card-title mb-3">Bahasa Inggris</h5>
@@ -82,7 +85,7 @@
             </div>
             <div class="col-lg-4 mb-5">
                 <div class="card h-100 shadow border-0">
-                    <img class="card-img-top" src="https://dummyimage.com/600x350/6c757d/343a40" alt="..." />
+                    <img class="card-img-top" src="img/Modul_BJAWA.png" alt="..." />
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
                         <h5 class="card-title mb-3">Bahasa Jawa</h5>
