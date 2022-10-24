@@ -38,7 +38,6 @@
                         <p class="card-text mb-0">Some quick example text to build on the card title and make up the
                             bulk of the card's content.</p>
                     </div>
-
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
                             <div class="dropdown">
