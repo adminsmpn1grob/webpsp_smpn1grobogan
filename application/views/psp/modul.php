@@ -73,8 +73,8 @@
                                     Modul Kelas
                                 </button>
                                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                    <a class="dropdown-item" href="#">Kelas 7</a>
-                                    <a class="dropdown-item" href="#">Kelas 8</a>
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1AzLfVttU1LP22NYObzOfxjZF5hUyQz-j?usp=sharing">Kelas 7</a>
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1sBjN_8RVjGGx523kxJYilddlDeLZNaOb?usp=sharing">Kelas 8</a>
                                     <a class="dropdown-item" href="#">Kelas 9</a>
                                 </div>
                             </div>
@@ -99,8 +99,8 @@
                                     Modul Kelas
                                 </button>
                                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                    <a class="dropdown-item" href="#">Kelas 7</a>
-                                    <a class="dropdown-item" href="#">Kelas 8</a>
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1KjoBPshMrg6L-Rp3MDfHoAfVH-hs8Wg6?usp=sharing">Kelas 7</a>
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1sD2IyIQVbWtsG0w3AcE8o76cFqrlcf-6?usp=sharing">Kelas 8</a>
                                     <a class="dropdown-item" href="#">Kelas 9</a>
                                 </div>
                             </div>
@@ -128,8 +128,8 @@
                                     Modul Kelas
                                 </button>
                                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                    <a class="dropdown-item" href="#">Kelas 7</a>
-                                    <a class="dropdown-item" href="#">Kelas 8</a>
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1KjoBPshMrg6L-Rp3MDfHoAfVH-hs8Wg6?usp=sharing">Kelas 7</a>
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1N5iwqzSJyRDqMn0EmtLC-zeXKSHPFn4s?usp=sharing">Kelas 8</a>
                                     <a class="dropdown-item" href="#">Kelas 9</a>
                                 </div>
                             </div>
@@ -155,8 +155,8 @@
                                     Modul Kelas
                                 </button>
                                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                    <a class="dropdown-item" href="#">Kelas 7</a>
-                                    <a class="dropdown-item" href="#">Kelas 8</a>
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1EqrBftW6ZtbXLgF2IsWkfx59r6DtLwb3?usp=sharing">Kelas 7</a>
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1y_lqusUftWljQG_vcCyqEOo6Ot_8zojt?usp=sharing">Kelas 8</a>
                                     <a class="dropdown-item" href="#">Kelas 9</a>
                                 </div>
                             </div>
@@ -181,8 +181,8 @@
                                     Modul Kelas
                                 </button>
                                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                    <a class="dropdown-item" href="#">Kelas 7</a>
-                                    <a class="dropdown-item" href="#">Kelas 8</a>
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/19_AL6tRGE9vz7yURNs2DfD6H-3Ctadoa?usp=sharing">Kelas 7</a>
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1bmjpeZaJ3xTZOgcQuWUjZ6arc5IukvFz?usp=sharing">Kelas 8</a>
                                     <a class="dropdown-item" href="#">Kelas 9</a>
                                 </div>
                             </div>
@@ -210,7 +210,7 @@
                                     Modul Kelas
                                 </button>
                                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                    <a class="dropdown-item" href="informatika7.html">Kelas 7</a>
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1qOdJe5hVzQ_qwSrQtwqYkNAs3JpNv_eo?usp=sharing">Kelas 7</a>
                                     <a class="dropdown-item" href="#">Kelas 8</a>
                                     <a class="dropdown-item" href="#">Kelas 9</a>
                                 </div>
@@ -237,8 +237,8 @@
                                     Modul Kelas
                                 </button>
                                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                    <a class="dropdown-item" href="#">Kelas 7</a>
-                                    <a class="dropdown-item" href="#">Kelas 8</a>
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1rxlKgwERwzwNjDLJUjZh5oP1svuSvE4d?usp=sharing">Kelas 7</a>
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1uFFl-B-MWEVT5e7ZWQvKghPJtxwLxcdi?usp=sharing">Kelas 8</a>
                                     <a class="dropdown-item" href="#">Kelas 9</a>
                                 </div>
                             </div>
@@ -251,7 +251,7 @@
                     <img class="card-img-top" src="https://dummyimage.com/600x350/6c757d/343a40" alt="..." />
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
-                        <h5 class="card-title mb-3">Pendidikan Kewarganegaraan</h5>
+                        <h5 class="card-title mb-3">Pendidikan Pancasila</h5>
                         <p class="card-text mb-0">Some more quick example text to build on the card title and make up
                             the bulk of the card's content.</p>
                     </div>
@@ -263,8 +263,8 @@
                                     Modul Kelas
                                 </button>
                                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                    <a class="dropdown-item" href="#">Kelas 7</a>
-                                    <a class="dropdown-item" href="#">Kelas 8</a>
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/14zxtg5Q1-EwEXxLlhgLjMfpcsLtrxljX?usp=sharing">Kelas 7</a>
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1eIjz7KkKSlVKzbom07aA84X24gnUOEIO?usp=sharing">Kelas 8</a>
                                     <a class="dropdown-item" href="#">Kelas 9</a>
                                 </div>
                             </div>
@@ -280,7 +280,7 @@
                     <img class="card-img-top" src="https://dummyimage.com/600x350/ced4da/6c757d" alt="..." />
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
-                        <h5 class="card-title mb-3">Pendidikan Jasmani</h5>
+                        <h5 class="card-title mb-3">Pendidikan Jasmani dan Olahraga</h5>
                         <p class="card-text mb-0">Some quick example text to build on the card title and make up the
                             bulk of the card's content.</p>
                     </div>
@@ -292,8 +292,8 @@
                                     Modul Kelas
                                 </button>
                                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                    <a class="dropdown-item" href="#">Kelas 7</a>
-                                    <a class="dropdown-item" href="#">Kelas 8</a>
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1v9VOZqnm6rglWgXtSbE089dDxJF7ef3l?usp=sharing">Kelas 7</a>
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1GVK_8ZnpfLqrF3k-7iWhPhuF2P5rhEju?usp=sharing">Kelas 8</a>
                                     <a class="dropdown-item" href="#">Kelas 9</a>
                                 </div>
                             </div>
@@ -319,8 +319,35 @@
                                     Modul Kelas
                                 </button>
                                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                    <a class="dropdown-item" href="#">Kelas 7</a>
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/11EiicTXP5jddAKvfPx86GxNCKQlLIKv2?usp=sharing">Kelas 7</a>
                                     <a class="dropdown-item" href="#">Kelas 8</a>
+                                    <a class="dropdown-item" href="#">Kelas 9</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 mb-5">
+                <div class="card h-100 shadow border-0">
+                    <img class="card-img-top" src="https://dummyimage.com/600x350/adb5bd/495057" alt="..." />
+                    <div class="card-body p-4">
+                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
+                        <h5 class="card-title mb-3">Pendidikan Agama</h5>
+                        <p class="card-text mb-0">This text is a bit longer to illustrate the adaptive height of each
+                            card. Some quick example text to build on the card title and make up the bulk of the card's
+                            content.</p>
+                    </div>
+                    <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
+                        <div class="d-flex align-items-end justify-content-between">
+                            <div class="dropdown">
+                                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton"
+                                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Modul Kelas
+                                </button>
+                                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1AzLfVttU1LP22NYObzOfxjZF5hUyQz-j?usp=sharing">Kelas 7</a>
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1bwdwAtSGDAiGJsmvLFfy5J28tqg7CbEB?usp=sharing">Kelas 8</a>
                                     <a class="dropdown-item" href="#">Kelas 9</a>
                                 </div>
                             </div>
