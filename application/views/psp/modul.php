@@ -22,8 +22,8 @@
             <div class="col-lg-8 col-xl-6">
                 <div class="text-center">
                     <h2 class="fw-bolder">Modul Pembelajaran</h2>
-                    <p class="lead fw-normal text-muted mb-5">Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                        Eaque fugit ratione dicta mollitia. Officiis ad.</p>
+                    <p class="lead fw-normal text-muted mb-5">Modul Pembelajaran
+                        Yang DiBuat Oleh Bapak/Ibu Guru SMPN 1 Grobogan</p>
                 </div>
             </div>
         </div>
