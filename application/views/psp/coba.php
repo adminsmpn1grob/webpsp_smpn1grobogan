@@ -39,7 +39,8 @@
                                 <a class="nav-link dropdown-toggle" id="navbarDropdownBlog" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Modul</a>
                                 <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownBlog">
                                     <li><a class="dropdown-item" href="<?php echo base_url() ?>Welcome/modul">Modul Ajar</a></li>
-                                    <li><a class="dropdown-item" href="#">Video Modul</a></li>
+                                    <li><a class="dropdown-item" href="<?php echo base_url() ?>Welcome/video7">Video Modul Kelas 7</a></li>
+                                    <li><a class="dropdown-item" href="<?php echo base_url() ?>Welcome/video8">Video Modul Kelas 8</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
@@ -67,8 +68,8 @@
                                     <h1>
                                 <p class="lead fw-normal text-white-50 mb-4">Website yang dibuat untuk memuat segala kegiatan pelaksaan P5 yang ada pada SMP N 1 Grobogan</p>
                                 <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
-                                    <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Modul</a>
-                                    <a class="btn btn-outline-light btn-lg px-4" href="#!">Video Modul</a>
+                                    <a class="btn btn-primary btn-lg px-4 me-sm-3" href="<?php echo base_url() ?>Welcome/modul">Modul</a>
+                                    <a class="btn btn-outline-light btn-lg px-4" href="<?php echo base_url() ?>Welcome/video7">Video Modul</a>
                                 </div>
                             </div>
                         </div>

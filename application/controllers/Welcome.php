@@ -28,8 +28,13 @@ class Welcome extends CI_Controller {
 		$this->load->view('psp/modul');
 	}
 
-	public function coba()
+	public function video7()
 	{
-		$this->load->view('modul/modul');
+		$this->load->view('psp/video_modul7');
+	}
+
+	public function video8()
+	{
+		$this->load->view('psp/video_modul8');
 	}
 }
