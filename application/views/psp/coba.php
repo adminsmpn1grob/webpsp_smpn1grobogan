@@ -43,9 +43,9 @@
                                     <li><a class="dropdown-item" href="<?php echo base_url() ?>Welcome/video8">Video Modul Kelas 8</a></li>
                                 </ul>
                             </li>
-                            <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
-                            <!-- <li class="nav-item"><a class="nav-link" href="#">Pricing</a></li> -->
-                            <li class="nav-item"><a class="nav-link" href="#">About</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#">Produk</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#">Kontak</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#">Tentang</a></li>
                             <!-- <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" id="navbarDropdownPortfolio" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Portfolio</a>
                                 <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownPortfolio">
@@ -167,19 +167,19 @@
                     <div class="row gx-5 justify-content-center">
                         <div class="col-lg-8 col-xl-6">
                             <div class="text-center">
-                                <h2 class="fw-bolder">From our blog</h2>
-                                <p class="lead fw-normal text-muted mb-5">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque fugit ratione dicta mollitia. Officiis ad.</p>
+                                <h2 class="fw-bolder">Sample Video Pembejaran</h2>
+                                <p class="lead fw-normal text-muted mb-5">Video pembelajaran yang dibuat oleh bapak/ibu guru SMPN 1 Grobogan</p>
                             </div>
                         </div>
                     </div>
                     <div class="row gx-5">
                         <div class="col-lg-4 mb-5">
-                        <iframe width="315" height="200" src="https://www.youtube.com/embed/8y1W808NRrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe width="315" height="200" src="https://www.youtube.com/embed/Oh0x0aqk8zc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             <div class="card h-70 shadow border-1">
                                 <div class="card-body p-4">
-                                    <div class="badge bg-primary bg-gradient rounded-pill mb-2">News</div>
-                                    <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">The last blog post title is a little bit longer than the others</h5></a>
-                                    <p class="card-text mb-0">Some more quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <div class="badge bg-primary bg-gradient rounded-pill mb-2">Video Pembelajaran</div>
+                                    <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">VIDEO PEMBELAJARAN ILMU PENGETAHUAN SOSIAL (IPS) KELAS VII</h5></a>
+                                    <p class="card-text mb-0">Pembelajaran IPS kelas VII Kurikulum Merdeka dengan materi Menentukan Letak Lintang dan Bujur.</p>
                                 </div>
                                 <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                                     <div class="d-flex align-items-end justify-content-between">
@@ -195,12 +195,12 @@
                             </div>
                         </div>
                         <div class="col-lg-4 mb-5">
-                        <iframe width="315" height="200" src="https://www.youtube.com/embed/KFjX_jJCu_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe width="315" height="200" src="https://www.youtube.com/embed/qsZBod4uaB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             <div class="card h-70 shadow border-1">
                                 <div class="card-body p-4">
-                                    <div class="badge bg-primary bg-gradient rounded-pill mb-2">News</div>
-                                    <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">The last blog post title is a little bit longer than the others</h5></a>
-                                    <p class="card-text mb-0">Some more quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <div class="badge bg-primary bg-gradient rounded-pill mb-2">Video Pembelajaran</div>
+                                    <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">VIDEO PEMBELAJARAN SENI BUDAYA (SENI TARI) KELAS VIII </h5></a>
+                                    <p class="card-text mb-0">Pembelajaran Seni Tari Kelas VIII tentang Memperagakan Gerak Tari Tradisi.</p>
                                 </div>
                                 <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                                     <div class="d-flex align-items-end justify-content-between">
@@ -218,12 +218,12 @@
                             </div>
                         </div>
                         <div class="col-lg-4 mb-5">
-                            <iframe width="315" height="200" src="https://www.youtube.com/embed/Jngz0LV0ewU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="315" height="200" src="https://www.youtube.com/embed/hW79g99IWps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             <div class="card h-70 shadow border-1">
                                 <div class="card-body p-4">
-                                    <div class="badge bg-primary bg-gradient rounded-pill mb-2">News</div>
-                                    <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">The last blog post title is a little bit longer than the others</h5></a>
-                                    <p class="card-text mb-0">Some more quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <div class="badge bg-primary bg-gradient rounded-pill mb-2">Video Pembelajaran</div>
+                                    <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">VIDEO PEMBELAJARAN BAHASA INDONESIA KELAS VII KURIKULUM MERDEKA </h5></a>
+                                    <p class="card-text mb-0">Pembelajaran Bahasa Indonesia Kelas VII dengan materi menemukan makna kata teks deskripsi.</p>
                                 </div>
                                 <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                                     <div class="d-flex align-items-end justify-content-between">
