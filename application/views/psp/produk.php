@@ -101,7 +101,7 @@
             <div class="col-lg-4 mb-5">
             <div class="card h-100 shadow border-0">
                     <!-- <img class="card-img-top" src="img/Produk.PNG" alt="..." /> -->
-                    <iframe style="width:100%;height:100%; width:315px;height:200px" src="https://online.fliphtml5.com/ytvtk/vclx/" seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
+                    <iframe style="width:900px;height:500px" src="https://online.fliphtml5.com/ytvtk/kklb/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Hasil Produk</div>
                         <h5 class="card-title mb-3">Poduk Bahasa Jawa</h5>
