@@ -19,7 +19,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container">
-            <a class="navbar-brand" href="<?php echo base_url() ?>Welcome/index">
+            <a class="navbar-brand" href="<?php echo base_url() ?> ">
                 <img src=" img/LOGO_SMP.png" width="30" height="30" class="d-inline-block align-top" alt="">
                 SMPN 1 GROBOGAN
             </a>
@@ -31,12 +31,12 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
 
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item"><a class="nav-link" href="<?php echo base_url() ?>Welcome/index">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="<?php echo base_url() ?> ">Home</a></li>
                     <li class="nav-item active">
                         <a class="nav-link" href="#">Profile <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="<?php echo base_url() ?>Welcome/index" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle" href="<?php echo base_url() ?>" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Modul
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -73,8 +73,7 @@
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
                         <h5 class="card-title mb-3">Bahasa Indonesia</h5>
 
-                        <p class="card-text mb-0">Some quick example text to build on the card title and make up the
-                            bulk of the card's content.</p>
+                        <p class="card-text mb-0">Dibuat oleh guru mapel Bahasa Indonesia kelas 7 dan 8.</p>
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
@@ -84,8 +83,8 @@
                                     Modul Kelas
                                 </button>
                                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1VTcjMn059H5pHKKSqFVWVfILeW_81SMw?usp=sharing">Kelas 7</a>
-                                    <a class="dropdown-item" href="#">Kelas 8</a>
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1OF4RNcLEOuzfnH7Jx5JlWkj_1jlcY_Hr?usp=sharing">Kelas 7</a>
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1PqvqOHzaQpc-4agGOZbjHx47cqp0cKau">Kelas 8</a>
                                     <a class="dropdown-item" href="#">Kelas 9</a>
                                 </div>
                             </div>
@@ -99,9 +98,7 @@
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
                         <h5 class="card-title mb-3">Bahasa Inggris</h5>
-                        <p class="card-text mb-0">This text is a bit longer to illustrate the adaptive height of each
-                            card. Some quick example text to build on the card title and make up the bulk of the card's
-                            content.</p>
+                        <p class="card-text mb-0">Dibuat oleh guru mapel Bahasa Inggris kelas 7 dan 8.</p>
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
@@ -111,7 +108,7 @@
                                     Modul Kelas
                                 </button>
                                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1AzLfVttU1LP22NYObzOfxjZF5hUyQz-j?usp=sharing">Kelas 7</a>
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1VTcjMn059H5pHKKSqFVWVfILeW_81SMw?usp=sharing">Kelas 7</a>
                                     <a class="dropdown-item" href="https://drive.google.com/drive/folders/1sBjN_8RVjGGx523kxJYilddlDeLZNaOb?usp=sharing">Kelas 8</a>
                                     <a class="dropdown-item" href="#">Kelas 9</a>
                                 </div>
@@ -126,8 +123,7 @@
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
                         <h5 class="card-title mb-3">Bahasa Jawa</h5>
-                        <p class="card-text mb-0">Some more quick example text to build on the card title and make up
-                            the bulk of the card's content.</p>
+                        <p class="card-text mb-0">Dibuat oleh guru mapel Bahasa Jawa kelas 7 dan 8.</p>
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
@@ -155,8 +151,7 @@
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
                         <h5 class="card-title mb-3">Bimbingan Konseling</h5>
-                        <p class="card-text mb-0">Some quick example text to build on the card title and make up the
-                            bulk of the card's content.</p>
+                        <p class="card-text mb-0">Dibuat oleh guru mapel Bimbingan Konseling kelas 7 dan 8.</p>
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
@@ -166,7 +161,7 @@
                                     Modul Kelas
                                 </button>
                                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1KjoBPshMrg6L-Rp3MDfHoAfVH-hs8Wg6?usp=sharing">Kelas 7</a>
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1_tFymchqJNSH14T-0K-hSu_hif0zvZw3?usp=sharing">Kelas 7</a>
                                     <a class="dropdown-item" href="https://drive.google.com/drive/folders/1N5iwqzSJyRDqMn0EmtLC-zeXKSHPFn4s?usp=sharing">Kelas 8</a>
                                     <a class="dropdown-item" href="#">Kelas 9</a>
                                 </div>
@@ -181,9 +176,7 @@
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
                         <h5 class="card-title mb-3">Ilmu Pengetahuan Alam</h5>
-                        <p class="card-text mb-0">This text is a bit longer to illustrate the adaptive height of each
-                            card. Some quick example text to build on the card title and make up the bulk of the card's
-                            content.</p>
+                        <p class="card-text mb-0">Dibuat oleh guru mapel Ilmu Pengetahuan Alam (IPA) kelas 7 dan 8.</p>
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
@@ -208,8 +201,7 @@
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
                         <h5 class="card-title mb-3">Ilmu Pengetahuan Sosial</h5>
-                        <p class="card-text mb-0">Some more quick example text to build on the card title and make up
-                            the bulk of the card's content.</p>
+                        <p class="card-text mb-0">Dibuat oleh guru mapel Ilmu Pengetahuan Sosial (IPS) kelas 7 dan 8.</p>
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
@@ -237,8 +229,7 @@
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
                         <h5 class="card-title mb-3">Informatika</h5>
-                        <p class="card-text mb-0">Some quick example text to build on the card title and make up the
-                            bulk of the card's content.</p>
+                        <p class="card-text mb-0">Dibuat oleh guru mapel Informatika kelas 7 dan 8.</p>
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
@@ -249,7 +240,7 @@
                                 </button>
                                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                                     <a class="dropdown-item" href="https://drive.google.com/drive/folders/1qOdJe5hVzQ_qwSrQtwqYkNAs3JpNv_eo?usp=sharing">Kelas 7</a>
-                                    <a class="dropdown-item" href="#">Kelas 8</a>
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1ZetlRUIYVsqF1rcThl1M0tFff_qKBA6E?usp=sharing">Kelas 8</a>
                                     <a class="dropdown-item" href="#">Kelas 9</a>
                                 </div>
                             </div>
@@ -263,9 +254,7 @@
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
                         <h5 class="card-title mb-3">Matematika</h5>
-                        <p class="card-text mb-0">This text is a bit longer to illustrate the adaptive height of each
-                            card. Some quick example text to build on the card title and make up the bulk of the card's
-                            content.</p>
+                        <p class="card-text mb-0">Dibuat oleh guru mapel Matematika kelas 7 dan 8.</p>
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
@@ -290,8 +279,7 @@
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
                         <h5 class="card-title mb-3">Pendidikan Pancasila</h5>
-                        <p class="card-text mb-0">Some more quick example text to build on the card title and make up
-                            the bulk of the card's content.</p>
+                        <p class="card-text mb-0">Dibuat oleh guru mapel Pendidikan Pancasila kelas 7 dan 8.</p>
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
@@ -319,8 +307,7 @@
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
                         <h5 class="card-title mb-3">Pendidikan Jasmani dan Olahraga</h5>
-                        <p class="card-text mb-0">Some quick example text to build on the card title and make up the
-                            bulk of the card's content.</p>
+                        <p class="card-text mb-0">Dibuat oleh guru mapel Pendidikan Jasmani dan Olahraga (PJOK) kelas 7 dan 8.</p>
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
@@ -345,9 +332,7 @@
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
                         <h5 class="card-title mb-3">Seni Budaya</h5>
-                        <p class="card-text mb-0">This text is a bit longer to illustrate the adaptive height of each
-                            card. Some quick example text to build on the card title and make up the bulk of the card's
-                            content.</p>
+                        <p class="card-text mb-0">Dibuat oleh guru mapel Seni Budaya kelas 7 dan 8.</p>
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
@@ -358,7 +343,7 @@
                                 </button>
                                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                                     <a class="dropdown-item" href="https://drive.google.com/drive/folders/11EiicTXP5jddAKvfPx86GxNCKQlLIKv2?usp=sharing">Kelas 7</a>
-                                    <a class="dropdown-item" href="#">Kelas 8</a>
+                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1bwdwAtSGDAiGJsmvLFfy5J28tqg7CbEB?usp=sharing">Kelas 8</a>
                                     <a class="dropdown-item" href="#">Kelas 9</a>
                                 </div>
                             </div>
@@ -372,9 +357,7 @@
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
                         <h5 class="card-title mb-3">Pendidikan Agama</h5>
-                        <p class="card-text mb-0">This text is a bit longer to illustrate the adaptive height of each
-                            card. Some quick example text to build on the card title and make up the bulk of the card's
-                            content.</p>
+                        <p class="card-text mb-0">Dibuat oleh guru mapel Agama kelas 7 dan 8.</p>
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
@@ -385,7 +368,7 @@
                                 </button>
                                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                                     <a class="dropdown-item" href="https://drive.google.com/drive/folders/1AzLfVttU1LP22NYObzOfxjZF5hUyQz-j?usp=sharing">Kelas 7</a>
-                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1bwdwAtSGDAiGJsmvLFfy5J28tqg7CbEB?usp=sharing">Kelas 8</a>
+                                    <a class="dropdown-item" href="#">Kelas 8</a>
                                     <a class="dropdown-item" href="#">Kelas 9</a>
                                 </div>
                             </div>

@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Modul Ajar</title>
+    <title>Video Pembelajaran Kelas 7</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -19,7 +19,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container">
-            <a class="navbar-brand" href="<?php echo base_url() ?>Welcome/index">
+            <a class="navbar-brand" href="<?php echo base_url() ?>">
                 <img src=" img/LOGO_SMP.png" width="30" height="30" class="d-inline-block align-top" alt="">
                 SMPN 1 GROBOGAN
             </a>
@@ -31,7 +31,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
 
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item"><a class="nav-link" href="<?php echo base_url() ?>Welcome/index">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="<?php echo base_url() ?> ">Home</a></li>
                     <li class="nav-item active">
                         <a class="nav-link" href="#">Profile <span class="sr-only">(current)</span></a>
                     </li>
@@ -77,7 +77,7 @@
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
-                        <a href="https://drive.google.com/drive/folders/1KjoBPshMrg6L-Rp3MDfHoAfVH-hs8Wg6?usp=sharing" type="button" class="btn btn-outline-dark">Modul Ajar</a>
+                        <a href="https://drive.google.com/drive/folders/1OF4RNcLEOuzfnH7Jx5JlWkj_1jlcY_Hr?usp=sharing" type="button" class="btn btn-outline-dark">Modul Ajar</a>
                         </div>
                     </div>
                 </div>
@@ -134,60 +134,40 @@
             </div>
             <div class="col-lg-4 mb-5">
                 <div class="card h-100 shadow border-0">
-                    <img class="card-img-top" src="img/Modul_IPA.png" alt="..." />
+                    <!-- <img class="card-img-top" src="img/Modul_IPA.png" alt="..." /> -->
+                    <iframe width="315" height="200" src="https://www.youtube.com/embed/D_7_7jWyviE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <div class="card-body p-4">
-                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
-                        <h5 class="card-title mb-3">Ilmu Pengetahuan Alam</h5>
-                        <p class="card-text mb-0">This text is a bit longer to illustrate the adaptive height of each
-                            card. Some quick example text to build on the card title and make up the bulk of the card's
-                            content.</p>
+                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">Video Modul</div>
+                        <h5 class="card-title mb-3">Pendidikan Agama</h5>
+                        <p class="card-text mb-0">Pembelajaran Pendidikan Agama Islam Kelas VII dengan materi Meneladani Nama dan Sifat Allah SWT Untuk Kehidupan.</p>
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
-                            <div class="dropdown">
-                                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton"
-                                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    Modul Kelas
-                                </button>
-                                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1EqrBftW6ZtbXLgF2IsWkfx59r6DtLwb3?usp=sharing">Kelas 7</a>
-                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1y_lqusUftWljQG_vcCyqEOo6Ot_8zojt?usp=sharing">Kelas 8</a>
-                                    <a class="dropdown-item" href="#">Kelas 9</a>
-                                </div>
-                            </div>
+                        <a href="https://drive.google.com/drive/folders/1AzLfVttU1LP22NYObzOfxjZF5hUyQz-j?usp=sharing" type="button" class="btn btn-outline-dark">Modul Ajar</a>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 mb-5">
                 <div class="card h-100 shadow border-0">
-                    <img class="card-img-top" src="img/Modul_IPS.png" alt="..." />
+                    <!-- <img class="card-img-top" src="img/Modul_IPS.png" alt="..." /> -->
+                    <iframe width="315" height="200" src="https://www.youtube.com/embed/ZjMHIhAWY-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <div class="card-body p-4">
-                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
-                        <h5 class="card-title mb-3">Ilmu Pengetahuan Sosial</h5>
-                        <p class="card-text mb-0">Some more quick example text to build on the card title and make up
-                            the bulk of the card's content.</p>
+                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">Video Modul</div>
+                        <h5 class="card-title mb-3">Bimbingan Konseling</h5>
+                        <p class="card-text mb-0">Pembelajaran Berdiferensiasi Bimbingan Konseling dengan materi stop bullying.</p>
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
-                            <div class="dropdown">
-                                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton"
-                                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    Modul Kelas
-                                </button>
-                                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/19_AL6tRGE9vz7yURNs2DfD6H-3Ctadoa?usp=sharing">Kelas 7</a>
-                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1bmjpeZaJ3xTZOgcQuWUjZ6arc5IukvFz?usp=sharing">Kelas 8</a>
-                                    <a class="dropdown-item" href="#">Kelas 9</a>
-                                </div>
-                            </div>
+                        <a href="https://drive.google.com/drive/folders/1_tFymchqJNSH14T-0K-hSu_hif0zvZw3?usp=sharing" type="button" class="btn btn-outline-dark">Modul Ajar</a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="row gx-5">
+
+        <!-- <div class="row gx-5">
             <div class="col-lg-4 mb-5">
                 <div class="card h-100 shadow border-0">
                     <img class="card-img-top" src="img/Modul_INF.png" alt="..." />
@@ -267,9 +247,9 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
-        <div class="row gx-5">
+        <!-- <div class="row gx-5">
             <div class="col-lg-4 mb-5">
                 <div class="card h-100 shadow border-0">
                     <img class="card-img-top" src="img/Modul_PJOK.png" alt="..." />
@@ -350,9 +330,10 @@
                     </div>
                 </div>
             </div>
-
-        </div>
+        </div> -->
     </div>
+
+
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
