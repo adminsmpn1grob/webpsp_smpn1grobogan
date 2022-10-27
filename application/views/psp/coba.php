@@ -28,12 +28,12 @@
                         <div class="container">
                             <i class="img-title"> <img src="assets/img/LOGO_SMP.png" height="30" width="30" margin-left="40"> </i>
                         </div>
-                        <a class="navbar-brand" href="#">SMPN 1 GROBOGAN</a>
+                        <a class="navbar-brand"  href="<?php echo base_url() ?>" >SMPN 1 GROBOGAN</a>
                     </div>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                            <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                            <li class="nav-item"><a class="nav-link" href="<?php echo base_url() ?>">Home</a></li>
                             <li class="nav-item"><a class="nav-link" href="<?php echo base_url() ?>Welcome/profile">Profile</a></li>
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" id="navbarDropdownBlog" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Modul</a>
