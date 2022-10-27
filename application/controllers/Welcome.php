@@ -42,4 +42,14 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->view('psp/produk');
 	}
+
+	public function profile()
+	{
+		$this->load->view('psp/profile');
+	}
+
+	public function tentang()
+	{
+		$this->load->view('psp/tentang');
+	}
 }

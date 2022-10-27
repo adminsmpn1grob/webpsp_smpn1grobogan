@@ -10,13 +10,16 @@
 }
 
 .img-body{
-<<<<<<< HEAD
     width:30px;
     height:30px;
     size: 30px;
-=======
-    width:40px;
-    height:40px;
-    size: 20px;
->>>>>>> c85694bc29e9b71037888c165907e2c8257b6ffd
+}
+
+.img-card{
+    margin-top: 60px;
+}
+
+.img-card-img{
+    margin-top: 60px;
+    width:30px;
 }
