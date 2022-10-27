@@ -46,10 +46,10 @@
                             <a class="dropdown-item" href="<?php echo base_url() ?>Welcome/video8">Modul Kelas 8</a>
                         </div>
                     </li>
+                    <li class="nav-item"><a class="nav-link" href="<?php echo base_url() ?>Welcome/produk">Produk</a></li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Tentang</a>
                     </li>
-                    <li class="nav-item"><a class="nav-link" href="<?php echo base_url() ?>Welcome/produk">Produk</a></li>
                 </ul>
             </div>
         </div>
@@ -69,7 +69,7 @@
             <div class="col-lg-4 mb-5">
             <div class="card h-100 shadow border-0">
                     <!-- <img class="card-img-top" src="img/Modul_BIN.PNG" alt="..." /> -->
-                    <iframe style="width:100%;height:100%;max-width:900px;max-height:500px" src="https://online.fliphtml5.com/xugzd/gamy/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
+                    <iframe style="width:100%;height:100%;width:315px;height:200px" src="https://online.fliphtml5.com/xugzd/gamy/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Hasil Produk</div>
                         <h5 class="card-title mb-3">Produk Bimbingan Konseling (BK)</h5>
@@ -77,7 +77,7 @@
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
-                        <a href="https://drive.google.com/drive/folders/1KjoBPshMrg6L-Rp3MDfHoAfVH-hs8Wg6?usp=sharing" type="button" class="btn btn-outline-dark">Produk</a>
+                        <a href="https://drive.google.com/drive/folders/158nNIQrKP9sQQBX7Sqii3vZnEG4PmnZq?usp=sharing" type="button" class="btn btn-outline-dark">Produk</a>
                         </div>
                     </div>
                 </div>
@@ -93,7 +93,7 @@
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
-                        <a href="https://drive.google.com/drive/folders/1KjoBPshMrg6L-Rp3MDfHoAfVH-hs8Wg6?usp=sharing" type="button" class="btn btn-outline-dark">Produk</a>
+                        <a href="https://drive.google.com/drive/folders/1-WyORb5uLGhEgSJim492PB1jmJswKiw_?usp=sharing" type="button" class="btn btn-outline-dark">Produk</a>
                         </div>
                     </div>
                 </div>
@@ -105,7 +105,7 @@
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Hasil Produk</div>
                         <h5 class="card-title mb-3">Poduk Bahasa Jawa</h5>
-                        <p class="card-text mb-0">Produk yang dihasilkan dari diskusi kelompok tentang Lainya.</p>
+                        <p class="card-text mb-0">Produk yang dihasilkan dari pacelaton.</p>
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
@@ -119,48 +119,37 @@
         <div class="row gx-5">
             <div class="col-lg-4 mb-5">
             <div class="card h-100 shadow border-0">
-                    <img class="card-img-top" src="img/Produk.PNG" alt="..." />
-                    <!-- <iframe style="width:100%;height:100%;max-width:900px;max-height:500px" src="https://online.fliphtml5.com/xugzd/gamy/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe> -->
+                    <!-- <img class="card-img-top" src="img/Produk.PNG" alt="..." /> -->
+                    <iframe style="width:100%;height:100%;width:315px;height:200px" src="https://online.fliphtml5.com/xugzd/onde/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
                     <div class="card-body p-4">
-                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">Video Modul</div>
-                        <h5 class="card-title mb-3">Video PPKn</h5>
-                        <p class="card-text mb-0">Pembelajaran PPKn kelas VII dengan materi Batas Wilayah Indonesia.</p>
+                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">Produk</div>
+                        <h5 class="card-title mb-3">Produk PPKn</h5>
+                        <p class="card-text mb-0">Produk yang dihasilkan dari diskusi kelompok tentang anti kekerasan, narboka, merokok dan lain-lainya.</p>
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
-                        <a href="https://drive.google.com/drive/folders/1KjoBPshMrg6L-Rp3MDfHoAfVH-hs8Wg6?usp=sharing" type="button" class="btn btn-outline-dark">Modul Ajar</a>
+                        <a href="https://drive.google.com/drive/folders/16aAQwqSKXxF7SZFMw6JtNtXaMngxjY_B?usp=sharing" type="button" class="btn btn-outline-dark">Produk</a>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 mb-5">
                 <div class="card h-100 shadow border-0">
-                    <img class="card-img-top" src="img/Modul_IPA.png" alt="..." />
+                    <!-- <img class="card-img-top" src="img/Modul_IPA.png" alt="..." /> -->
+                    <iframe style="width:100%;height:100%;width:315px;height:200px" src="https://online.fliphtml5.com/xugzd/cetf/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
                     <div class="card-body p-4">
-                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
-                        <h5 class="card-title mb-3">Ilmu Pengetahuan Alam</h5>
-                        <p class="card-text mb-0">This text is a bit longer to illustrate the adaptive height of each
-                            card. Some quick example text to build on the card title and make up the bulk of the card's
-                            content.</p>
+                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">Produk</div>
+                        <h5 class="card-title mb-3">Bahasa Indonesia</h5>
+                        <p class="card-text mb-0">Produk yang dihasilkan dari diskusi kelompok.</p>
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
-                            <div class="dropdown">
-                                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton"
-                                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    Modul Kelas
-                                </button>
-                                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1EqrBftW6ZtbXLgF2IsWkfx59r6DtLwb3?usp=sharing">Kelas 7</a>
-                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1y_lqusUftWljQG_vcCyqEOo6Ot_8zojt?usp=sharing">Kelas 8</a>
-                                    <a class="dropdown-item" href="#">Kelas 9</a>
-                                </div>
-                            </div>
+                        <a href="https://drive.google.com/drive/folders/1AfZHnQ6W3uNwfsTUjR8vj1YGoIFQlooK?usp=sharing" type="button" class="btn btn-outline-dark">Produk</a>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 mb-5">
+            <!-- <div class="col-lg-4 mb-5">
                 <div class="card h-100 shadow border-0">
                     <img class="card-img-top" src="img/Modul_IPS.png" alt="..." />
                     <div class="card-body p-4">
@@ -185,7 +174,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
 
         <!-- <div class="row gx-5">
