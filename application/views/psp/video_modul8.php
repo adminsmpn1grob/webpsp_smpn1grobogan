@@ -46,10 +46,10 @@
                             <a class="dropdown-item" href="<?php echo base_url() ?>Welcome/video8">Modul Kelas 8</a>
                         </div>
                     </li>
+                    <li class="nav-item"><a class="nav-link" href="<?php echo base_url() ?>Welcome/produk">Produk</a>
+                    </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Tentang</a>
-                    </li>
-                    <li class="nav-item"><a class="nav-link" href="<?php echo base_url() ?>Welcome/produk">Produk</a>
                     </li>
                 </ul>
             </div>
