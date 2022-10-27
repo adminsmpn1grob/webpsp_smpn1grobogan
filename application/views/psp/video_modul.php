@@ -49,17 +49,18 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#">Tentang</a>
                     </li>
+
                     <li class="nav-item"><a class="nav-link" href="<?php echo base_url() ?>Welcome/produk">Produk</a></li>
                 </ul>
             </div>
         </div>
     </nav>
 
-    <div class="container px-5 my-5">
+<div class="container px-5 my-5">
         <div class="row gx-5 justify-content-center">
             <div class="col-lg-8 col-xl-6">
                 <div class="text-center">
-                    <h2 class="fw-bolder">Modul Pembelajaran</h2>
+                    <h2 class="fw-bolder">VIDEO PEMBELAJARAN KELAS 7</h2>
                     <p class="lead fw-normal text-muted mb-5">
                         Dibuat Oleh Bapak/Ibu Guru SMPN 1 Grobogan</p>
                 </div>
@@ -67,110 +68,67 @@
         </div>
         <div class="row gx-5">
             <div class="col-lg-4 mb-5">
-                <div class="card h-100 shadow border-0">
-                    <img class="card-img-top" src="img/Modul_BIN.PNG" alt="..." />
+            <div class="card h-100 shadow border-0">
+                    <!-- <img class="card-img-top" src="img/Modul_BIN.PNG" alt="..." /> -->
+                    <iframe width="327" height="200" src="https://www.youtube.com/embed/hW79g99IWps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <div class="card-body p-4">
-                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
+                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">Video Modul</div>
                         <h5 class="card-title mb-3">Bahasa Indonesia</h5>
-
-                        <p class="card-text mb-0">Some quick example text to build on the card title and make up the
-                            bulk of the card's content.</p>
+                        <p class="card-text mb-0">Pembelajaran Bahasa Indonesia Kelas VII dengan materi menemukan makna kata teks deskripsi menggunakan kamus dan metode make a match.</p>
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
-                            <div class="dropdown">
-                                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton"
-                                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    Modul Kelas
-                                </button>
-                                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1VTcjMn059H5pHKKSqFVWVfILeW_81SMw?usp=sharing">Kelas 7</a>
-                                    <a class="dropdown-item" href="#">Kelas 8</a>
-                                    <a class="dropdown-item" href="#">Kelas 9</a>
-                                </div>
-                            </div>
+                        <a href="https://drive.google.com/drive/folders/1KjoBPshMrg6L-Rp3MDfHoAfVH-hs8Wg6?usp=sharing" type="button" class="btn btn-outline-dark">Modul Ajar</a>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 mb-5">
-                <div class="card h-100 shadow border-0">
-                    <img class="card-img-top" src="img/Modul_BING.png" alt="..." />
+            <div class="card h-100 shadow border-0">
+                    <!-- <img class="card-img-top" src="img/Modul_BIN.PNG" alt="..." /> -->
+                    <iframe width="327" height="200" src="https://www.youtube.com/embed/oJJ-WaK6YnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <div class="card-body p-4">
-                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
-                        <h5 class="card-title mb-3">Bahasa Inggris</h5>
-                        <p class="card-text mb-0">This text is a bit longer to illustrate the adaptive height of each
-                            card. Some quick example text to build on the card title and make up the bulk of the card's
-                            content.</p>
-                    </div>
-                    <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
-                        <div class="d-flex align-items-end justify-content-between">
-                            <div class="dropdown">
-                                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton"
-                                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    Modul Kelas
-                                </button>
-                                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1AzLfVttU1LP22NYObzOfxjZF5hUyQz-j?usp=sharing">Kelas 7</a>
-                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1sBjN_8RVjGGx523kxJYilddlDeLZNaOb?usp=sharing">Kelas 8</a>
-                                    <a class="dropdown-item" href="#">Kelas 9</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 mb-5">
-                <div class="card h-100 shadow border-0">
-                    <img class="card-img-top" src="img/Modul_BJAWA.png" alt="..." />
-                    <div class="card-body p-4">
-                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
+                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">Video Modul</div>
                         <h5 class="card-title mb-3">Bahasa Jawa</h5>
-                        <p class="card-text mb-0">Some more quick example text to build on the card title and make up
-                            the bulk of the card's content.</p>
+                        <p class="card-text mb-0">Pembelajaran Berdeferensiasi Bahasa Jawa Kelas VII dengan materi aksara jawa menggunakan Kartu Aksara.</p>
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
-                            <div class="dropdown">
-                                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton"
-                                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    Modul Kelas
-                                </button>
-                                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1KjoBPshMrg6L-Rp3MDfHoAfVH-hs8Wg6?usp=sharing">Kelas 7</a>
-                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1sD2IyIQVbWtsG0w3AcE8o76cFqrlcf-6?usp=sharing">Kelas 8</a>
-                                    <a class="dropdown-item" href="#">Kelas 9</a>
-                                </div>
-                            </div>
+                        <a href="https://drive.google.com/drive/folders/1KjoBPshMrg6L-Rp3MDfHoAfVH-hs8Wg6?usp=sharing" type="button" class="btn btn-outline-dark">Modul Ajar</a>
                         </div>
                     </div>
                 </div>
             </div>
+            <div class="col-lg-4 mb-5">
+            <div class="card h-100 shadow border-0">
+                    <!-- <img class="card-img-top" src="img/Modul_BIN.PNG" alt="..." /> -->
+                    <iframe width="327" height="200" src="https://www.youtube.com/embed/6l5ZDYOvvJs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div class="card-body p-4">
+                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">Video Modul</div>
+                        <h5 class="card-title mb-3">Video PPKn</h5>
+                        <p class="card-text mb-0">Pembelajaran PPKn kelas VII dengan materi Batas Wilayah Indonesia.</p>
+                    </div>
+                    <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
+                        <div class="d-flex align-items-end justify-content-between">
+                        <a href="https://drive.google.com/drive/folders/1KjoBPshMrg6L-Rp3MDfHoAfVH-hs8Wg6?usp=sharing" type="button" class="btn btn-outline-dark">Modul Ajar</a>
+                        </div>
+                    </div>
+                </div>
         </div>
 
         <div class="row gx-5">
             <div class="col-lg-4 mb-5">
-                <div class="card h-100 shadow border-0">
-                    <img class="card-img-top" src="img/Modul_BK.png" alt="..." />
+            <div class="card h-100 shadow border-0">
+                    <!-- <img class="card-img-top" src="img/Modul_BIN.PNG" alt="..." /> -->
+                    <iframe style="width:100%;height:100%;max-width:900px;max-height:500px" src="https://online.fliphtml5.com/xugzd/gamy/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
                     <div class="card-body p-4">
-                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">Moduls</div>
-                        <h5 class="card-title mb-3">Bimbingan Konseling</h5>
-                        <p class="card-text mb-0">Some quick example text to build on the card title and make up the
-                            bulk of the card's content.</p>
+                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">Video Modul</div>
+                        <h5 class="card-title mb-3">Video PPKn</h5>
+                        <p class="card-text mb-0">Pembelajaran PPKn kelas VII dengan materi Batas Wilayah Indonesia.</p>
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
-                            <div class="dropdown">
-                                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton"
-                                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    Modul Kelas
-                                </button>
-                                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1KjoBPshMrg6L-Rp3MDfHoAfVH-hs8Wg6?usp=sharing">Kelas 7</a>
-                                    <a class="dropdown-item" href="https://drive.google.com/drive/folders/1N5iwqzSJyRDqMn0EmtLC-zeXKSHPFn4s?usp=sharing">Kelas 8</a>
-                                    <a class="dropdown-item" href="#">Kelas 9</a>
-                                </div>
-                            </div>
+                        <a href="https://drive.google.com/drive/folders/1KjoBPshMrg6L-Rp3MDfHoAfVH-hs8Wg6?usp=sharing" type="button" class="btn btn-outline-dark">Modul Ajar</a>
                         </div>
                     </div>
                 </div>

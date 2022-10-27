@@ -30,11 +30,16 @@ class Welcome extends CI_Controller {
 
 	public function video7()
 	{
-		$this->load->view('psp/video_modul7');
+		$this->load->view('psp/video_modul');
 	}
 
 	public function video8()
 	{
 		$this->load->view('psp/video_modul8');
+	}
+
+	public function produk()
+	{
+		$this->load->view('psp/produk');
 	}
 }

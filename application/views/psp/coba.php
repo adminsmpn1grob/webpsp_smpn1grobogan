@@ -43,9 +43,9 @@
                                     <li><a class="dropdown-item" href="<?php echo base_url() ?>Welcome/video8">Video Modul Kelas 8</a></li>
                                 </ul>
                             </li>
-                            <li class="nav-item"><a class="nav-link" href="#">Produk</a></li>
-                            <li class="nav-item"><a class="nav-link" href="#">Kontak</a></li>
+                            <li class="nav-item"><a class="nav-link" href="<?php echo base_url() ?>Welcome/produk">Produk</a></li>
                             <li class="nav-item"><a class="nav-link" href="#">Tentang</a></li>
+                            <!-- <li class="nav-item"><a class="nav-link" href="#">Kontak</a></li> -->
                             <!-- <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" id="navbarDropdownPortfolio" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Portfolio</a>
                                 <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownPortfolio">
@@ -240,7 +240,7 @@
                         </div>
                     </div>
                     <!-- Call to action-->
-                    <aside class="bg-primary bg-gradient rounded-3 p-4 p-sm-5 mt-5">
+                    <!-- <aside class="bg-primary bg-gradient rounded-3 p-4 p-sm-5 mt-5">
                         <div class="d-flex align-items-center justify-content-between flex-column flex-xl-row text-center text-xl-start">
                             <div class="mb-4 mb-xl-0">
                                 <div class="fs-3 fw-bold text-white">New products, delivered to you.</div>
@@ -254,7 +254,7 @@
                                 <div class="small text-white-50">We care about privacy, and will never share your data.</div>
                             </div>
                         </div>
-                    </aside>
+                    </aside> -->
                 </div>
             </section>
         </main>
