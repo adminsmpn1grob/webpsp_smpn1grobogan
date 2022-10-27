@@ -70,13 +70,12 @@
             <div class="col-lg-4 mb-5">
                 <div class="card h-100 shadow border-0">
                     <!-- <img class="card-img-top" src="img/Modul_BIN.PNG" alt="..." /> -->
-                    <iframe width="327" height="200" src="https://www.youtube.com/embed/SpiFuV90tLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="315" height="200" src="https://www.youtube.com/embed/6K49eLGbwuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Video Modul</div>
                         <h5 class="card-title mb-3">Bahasa Indonesia</h5>
 
-                        <p class="card-text mb-0">Some quick example text to build on the card title and make up the
-                            bulk of the card's content.</p>
+                        <p class="card-text mb-0">Pembelajaran Bahasa Indonesia Kelas VIII dengan materi Membuat Poster dan Slogan.</p>
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
