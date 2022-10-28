@@ -76,14 +76,29 @@
                         <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center">
                             <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
                                 <div class="carousel-inner">
-                                    <div class="carousel-item active" data-bs-interval="3000">
+                                    <div class="carousel-item active" data-bs-interval="2000">
                                         <img src="assets/img/image-1n.png" class="d-block w-100" alt="...">
                                     </div>
-                                    <div class="carousel-item" data-bs-interval="3000">
+                                    <div class="carousel-item" data-bs-interval="2000">
                                         <img src="assets/img/image-2n.png" class="d-block w-100" alt="...">
                                     </div>
-                                    <div class="carousel-item" data-bs-interval="3000">
+                                    <div class="carousel-item" data-bs-interval="2000">
                                         <img src="assets/img/image-3n.png" class="d-block w-100" alt="...">
+                                    </div>
+                                    <div class="carousel-item" data-bs-interval="2000">
+                                        <img src="assets/img/mapsi.jpg" class="d-block w-100" alt="...">
+                                    </div>
+                                    <div class="carousel-item" data-bs-interval="2000">
+                                        <img src="assets/img/1.jpg" class="d-block w-100" alt="...">
+                                    </div>
+                                    <div class="carousel-item" data-bs-interval="2000">
+                                        <img src="assets/img/2.jpg" class="d-block w-100" alt="...">
+                                    </div>
+                                    <div class="carousel-item" data-bs-interval="2000">
+                                        <img src="assets/img/3.jpg" class="d-block w-100" alt="...">
+                                    </div>
+                                    <div class="carousel-item" data-bs-interval="2000">
+                                        <img src="assets/img/4.jpg" class="d-block w-100" alt="...">
                                     </div>
                                 </div>
                                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
@@ -174,7 +189,7 @@
                     </div>
                     <div class="row gx-5">
                         <div class="col-lg-4 mb-5">
-                        <iframe width="315" height="200" src="https://www.youtube.com/embed/Oh0x0aqk8zc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe width="375" height="200" src="https://www.youtube.com/embed/Oh0x0aqk8zc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             <div class="card h-70 shadow border-1">
                                 <div class="card-body p-4">
                                     <div class="badge bg-primary bg-gradient rounded-pill mb-2">Video Pembelajaran</div>
@@ -195,12 +210,12 @@
                             </div>
                         </div>
                         <div class="col-lg-4 mb-5">
-                        <iframe width="315" height="200" src="https://www.youtube.com/embed/qsZBod4uaB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe width="375" height="200" src="https://www.youtube.com/embed/d7aIPQjpfu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             <div class="card h-70 shadow border-1">
                                 <div class="card-body p-4">
                                     <div class="badge bg-primary bg-gradient rounded-pill mb-2">Video Pembelajaran</div>
-                                    <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">VIDEO PEMBELAJARAN SENI BUDAYA (SENI TARI) KELAS VIII </h5></a>
-                                    <p class="card-text mb-0">Pembelajaran Seni Tari Kelas VIII tentang Memperagakan Gerak Tari Tradisi.</p>
+                                    <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">VIDEO PEMBELAJARAN BAHASA INGGRIS KELAS IX Zeni Sovia Ramadhani, S.Pd.</h5></a>
+                                    <p class="card-text mb-0">Pembelajaran Bahasa Inggris Kelas IX tentang Text Label.</p>
                                 </div>
                                 <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                                     <div class="d-flex align-items-end justify-content-between">
@@ -218,7 +233,7 @@
                             </div>
                         </div>
                         <div class="col-lg-4 mb-5">
-                            <iframe width="315" height="200" src="https://www.youtube.com/embed/hW79g99IWps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="375" height="200" src="https://www.youtube.com/embed/hW79g99IWps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             <div class="card h-70 shadow border-1">
                                 <div class="card-body p-4">
                                     <div class="badge bg-primary bg-gradient rounded-pill mb-2">Video Pembelajaran</div>
