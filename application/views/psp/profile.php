@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Profile SMPN 1 GROBOGAN</title>
+    <link rel="icon" type="image/x-icon" href="assets/img/LOGO_SMP.png" />
     <link rel="stylesheet" href="styles.css">
     <link href="<?php echo base_url('assets/css/styles-1.css');?>" rel="stylesheet">
     <link href="<?php echo base_url('assets/css/styles.css');?>" rel="stylesheet">
@@ -27,13 +28,13 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
 
-            <div class="collapse navbar-collapse" id="navbarSupportedContent" align-rigth="">
+            <div class="collapse navbar-collapse" id="navbarSupportedContent" align-rigth="80px">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item"><a class="nav-link" href="<?php echo base_url() ?>">Home</a></li>
                     <li class="nav-item active">
                         <a class="nav-link" href="<?php echo base_url() ?>Welcome/profile">Profile <span class="sr-only"> </span></a>
                     </li>
-                    <li class="nav-item dropdown">
+                    li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="<?php echo base_url() ?>" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Modul
                         </a>
@@ -46,7 +47,7 @@
                     </li>
                     <li class="nav-item"><a class="nav-link" href="<?php echo base_url() ?>Welcome/produk">Produk</a></li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Tentang</a>
+                        <a class="nav-link" href="<?php echo base_url() ?>Welcome/tentang">Tentang</a>
                     </li>
 
                 </ul>
@@ -168,7 +169,7 @@
             <h1>Gallery</h1>
             <div class="img-container">
                 <div class="img-card">
-                    <img loading="lazy" src="assets/img/Modul_INF.png" alt="">
+                    <img loading="lazy" src="assets/img/mapsi.jpg" alt="">
                 </div>
                 <div class="img-card">
                     <img loading="lazy" src="assets/img/1.jpg" alt="">

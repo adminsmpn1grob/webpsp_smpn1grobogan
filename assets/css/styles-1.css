@@ -23,7 +23,7 @@
 /* Navigation */
 
 header {
-    background-color: #fff;
+    background-color: rgb(78, 29, 29);
     width: 100%;
     position: fixed;
     align-items: right;
@@ -47,8 +47,9 @@ nav a {
     float: right;
     font-size: 16px;
     color: black;
-    text-align: auto;
-    padding: 30px 30px;
+    text-align: right;
+    padding: 70px 60px;
+    padding-left: 70px 60px;
     text-decoration: none;
 }
 
@@ -70,13 +71,13 @@ nav a {
 
 nav a:hover,
 .dropdown:hover .dropbtn {
-    background-color: white;
+    background-color: rgba(255, 73, 73, 0.361);
 }
 
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #f9f9f9;
+    background-color: #e12d2d8e;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
     z-index: 1;
@@ -92,7 +93,7 @@ nav a:hover,
 }
 
 .dropdown-content a:hover {
-    background-color: #ddd;
+    background-color: rgba(160, 122, 122, 0.596);
 }
 
 .dropdown:hover .dropdown-content {
