@@ -27,13 +27,13 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
 
-            <div class="collapse navbar-collapse" id="navbarSupportedContent" align-rigth="80px">
+            <div class="collapse navbar-collapse" id="navbarSupportedContent" align-rigth="">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item"><a class="nav-link" href="<?php echo base_url() ?>">Home</a></li>
                     <li class="nav-item active">
                         <a class="nav-link" href="<?php echo base_url() ?>Welcome/profile">Profile <span class="sr-only"> </span></a>
                     </li>
-                    li class="nav-item dropdown">
+                    <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="<?php echo base_url() ?>" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Modul
                         </a>
@@ -100,7 +100,12 @@
                 </div>
                 <div class="misi">
                     <h3><strong>Misi</strong></h3>
-                    <p><i>-</i></p>
+                    <p><i>1. Mewujudkan warga sekolah yang berprestasi baik akademik maupun non akademik
+                          2. Mengembangkan potensi siswa yang kreatif, inovatif, dan berkualitas.
+                          3. Mengembangkan proses pembelajaran dan bimbingan secara efektif untuk mengoptimalkan potensi yang dimiliki siswa.
+                          4. Mengutamakan kerjasama (team work) dalam menyelesaikan tugas-tugas pendidikan.
+                          5. Membentuk dan melatih peserta didik untuk berketerampilan yang mampu berkompetensi di tingkat Kabupaten, Provinsi dan Nasional.
+                    </i></p>
                 </div>
             </div>
             <!-- <div class="text2">
