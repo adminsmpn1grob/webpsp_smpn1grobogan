@@ -186,12 +186,12 @@
                     </div>
                 </div>
             </div>
-            <!-- <div class="col-lg-4 mb-5">
+            <div class="col-lg-4 mb-5">
                 <div class="card h-100 shadow border-0">
                     <iframe width="327" height="200" src="https://www.youtube.com/embed/hKoFelpWy2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Video Modul</div>
-                        <h5 class="card-title mb-3">Bahasa Jawa</h5>
+                        <h5 class="card-title mb-3">Bahasa Inggris</h5>
                         <p class="card-text mb-0">Pembelajaran bahasa jawa kelas VIII dengan materi Tembang Mocopat Pangkur.</p>
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
@@ -201,7 +201,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 mb-5">
+            <!-- <div class="col-lg-4 mb-5">
                 <div class="card h-100 shadow border-0">
                     <iframe width="327" height="200" src="https://www.youtube.com/embed/cpALKnTjQaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <div class="card-body p-4">
