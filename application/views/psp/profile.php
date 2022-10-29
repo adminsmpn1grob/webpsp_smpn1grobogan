@@ -28,13 +28,8 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
 
-<<<<<<< HEAD
-            <div class="collapse navbar-collapse" id="navbarSupportedContent" align-rigth="80px">
-                <ul class="navbar-nav ml-auto" padding-left="50px">
-=======
             <div class="collapse navbar-collapse" id="navbarSupportedContent" padding-left="80px">
                 <ul class="navbar-nav ml-auto">
->>>>>>> c0b0b597229801742cfac596d6b4b01dd2636bd9
                     <li class="nav-item"><a class="nav-link" href="<?php echo base_url() ?>">Home</a></li>
                     <li class="nav-item active">
                         <a class="nav-link" href="<?php echo base_url() ?>Welcome/profile">Profile <span class="sr-only"> </span></a>
